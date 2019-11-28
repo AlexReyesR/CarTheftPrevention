@@ -1,0 +1,7 @@
+Icepick
+bat
+brass_knuckles
+handgun
+knife
+screwdriver
+slingshot
