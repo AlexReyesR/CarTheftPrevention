@@ -2,3 +2,4 @@ The files here are part of the project "Car Theft Prevention", whose purpose is 
 
 The system is based on two different neural networks models: WEAPONS DETECTION and VIOLENT ACTIONS DETECTION, which communicate with a central server and allow to make a conclusion about the possible danger for ther car.
 
+To access the dataset with which our models where train, follow this link: https://drive.google.com/drive/folders/1cqhU2paqOPjeuJvpje0b2pCfAc8P9H50?usp=sharing
